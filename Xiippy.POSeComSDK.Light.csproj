@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    </ItemGroup>
+    <PropertyGroup>
+        <PackageId>Xiippy.POSeComSDK.Light</PackageId>
+        <Version>1.1.0</Version>
+        <PackageTags>Xiippy.POSeComSDK.Light:1.1.0; Xiippy.ai's simplified lightweight SDK for POS and e-commerce systems</PackageTags>
+        <Description>
+            Xiippy.POSeComSDK.Light:1.1.0; Xiippy.ai's simplified lightweight SDK for POS and e-commerce systems. This package enables a POS system or an e-commerce system to trigger a privacy-preserving data-rich payment which includes a statement object that is delivered to the payer in a privacy-preserving fashion. This SDK interacts with Xiippy's SDKBridge which provides simplified localised interfaces and manages all the complex cryptographic and data delivery ops.
+        </Description>
+        <ReleaseNotes>Required for and used by the Xiippy terminal, POS and e-Commerce SDK </ReleaseNotes>
+        <Authors>https://Xiippy.ai</Authors>
+        <Owners>https://Xiippy.ai</Owners>
+        <Copyright>Copyright 2021 Xiippy.ai</Copyright>
+        <License>MIT</License>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PublishRepositoryUrl>true</PublishRepositoryUrl>
+        <PackageProjectUrl>https://xiippy.ai/</PackageProjectUrl>
+        <PackageTags>Xiippy;Lightwiehgt;SDK;terminal;ecommerce</PackageTags>
+        <PrivateRepositoryUrl>https://github.com/Xiippy/Xiippy.POSeComSDK.Light_CSharp</PrivateRepositoryUrl>
+        <PackageOutputPath>bin\Package</PackageOutputPath>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+    <ItemGroup>
+        <!-- ... -->
+        <PackageReference Include="NuGet.Build.Tasks.Pack" PrivateAssets="All" Version="5.11.0" />
+        <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+        <!-- ... -->
+    </ItemGroup>
+</Project>

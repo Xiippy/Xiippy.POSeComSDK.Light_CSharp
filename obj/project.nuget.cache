@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSXN0FQ4tMGQ5arab9p05gTsrTfq9oyWWiAnqibF27kFLA9UNtt8CHudCZmexNY2nKyjtMdCDLp4+hsJd8rBVg==",
+  "success": true,
+  "projectFilePath": "D:\\MyFiles\\wb\\Xp\\github\\published\\Xiippy.POSeComSDK.Light_CSharp\\Xiippy.POSeComSDK.Light.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\HS\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\HS\\.nuget\\packages\\nuget.build.tasks.pack\\5.11.0\\nuget.build.tasks.pack.5.11.0.nupkg.sha512",
+    "C:\\Users\\HS\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
